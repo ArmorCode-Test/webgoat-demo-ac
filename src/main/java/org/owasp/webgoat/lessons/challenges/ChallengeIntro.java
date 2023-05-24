@@ -4,7 +4,7 @@ import org.owasp.webgoat.container.lessons.Category;
 import org.owasp.webgoat.container.lessons.Lesson;
 
 /**
- * @author nbaars
+ * @author nbaarssaa
  * @since 3/21/17.
  */
 public class ChallengeIntro extends Lesson {
